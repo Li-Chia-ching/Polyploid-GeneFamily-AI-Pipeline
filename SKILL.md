@@ -3,7 +3,7 @@ name: Polyploid Gene Family Analysis & Seamless Cloning Pipeline
 description: >
   AI Skill for automated polyploid gene family analysis, comparative genomics,
   cross-platform (Windows–WSL2) execution, and seamless cloning primer design.
-author: Jiaqing Li (ORCID: 0000-0002-4856-5524)
+author: Jiaqing_Li
 version: 1.0.0
 ---
 

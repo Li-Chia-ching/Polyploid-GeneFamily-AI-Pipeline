@@ -1,3 +1,12 @@
+---
+name: Polyploid Gene Family Analysis & Seamless Cloning Pipeline
+description: >
+  AI Skill for automated polyploid gene family analysis, comparative genomics,
+  cross-platform (Windows–WSL2) execution, and seamless cloning primer design.
+author: Huan-Wei
+version: 1.0.0
+---
+
 ## 通用流水线 Prompt 模板：基于多倍体参考基因组的基因家族分析及无缝克隆引物自动化设计
 
 ---
